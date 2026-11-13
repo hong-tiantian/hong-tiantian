@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="395px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="395px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" font-size="9px">
+<tspan x="15" y="46">                   .:-</tspan>
+<tspan x="15" y="57">               ....:.~%-</tspan>
+<tspan x="15" y="68">              ....: :~%#+--~~--::.:-~=+</tspan>
+<tspan x="15" y="79">              .::::: =@@@@@@#%#*~----~-</tspan>
+<tspan x="15" y="90">             ...:::~%##=~~~~=OOOO:.:-:.:.</tspan>
+<tspan x="15" y="101">            ......-#*===~------OO%+--:OO*-</tspan>
+<tspan x="15" y="112">            ......-===++~~=--~~~+*##%#@~--:</tspan>
+<tspan x="15" y="123">          ........~===+====~~--=+=*%%=~: :.</tspan>
+<tspan x="15" y="134">         .......:-~~~=~==+=~~~=--~+%===~-...</tspan>
+<tspan x="15" y="145">        ...:::.:~+*++====+*=+*%###@#%+=---::</tspan>
+<tspan x="15" y="156">       ....:..:-@@@@@@#@%%+*%#%@@@@@@#+++=~-.</tspan>
+<tspan x="15" y="167">       ......:-*@@@@##%+====+%#%*===~~~~~-~~-::::..</tspan>
+<tspan x="15" y="178">       ....::-*##%#*+++===++====+~~=~~-----~~~---::..:::----::.</tspan>
+<tspan x="15" y="189">       ..::::+#%%++**@*@@*##=~*++=~=~------~%#+#**++#*@%**%%++=+-~</tspan>
+<tspan x="15" y="200">      ...:::=%***%@@@@@@+~*#-*=~=@*+~-:----@*#@@@%#@%*@@@#@*+++%~=</tspan>
+<tspan x="15" y="211">      ..:::~%*@###%##@#@+#*@*@+%+~*+--~*-==@@@@@@=@+#~**%@%*+~: -@</tspan>
+<tspan x="15" y="222">     ...:::+%#*##@=#*@+##@+@@#%#~@=~~+-~==%@@@#@@=@~#==--#%%*==%@*</tspan>
+<tspan x="15" y="233">    ...::::+%##@#**@###%@###@*#%+=~=%@%~----%@@#@#**~==*==--.</tspan>
+<tspan x="15" y="244">   ....::::*@#@%+#*%+*~=*==+=%%=-++%*=~~-~~-:%@*@@~~-::</tspan>
+<tspan x="15" y="255">  ....:::::+@@@#=~~~~==~=+=~::-~------~-::: .*#=++=-.</tspan>
+<tspan x="15" y="266">   ..:::::--@@@%+~~=-~===~~~~~++~---:.::.:-=@%#%=~-:.</tspan>
+<tspan x="15" y="277">   ..:::::-~%%+*+*+++=++**=*=~~~~=+*%##@#*@%#~=~--:.</tspan>
+<tspan x="15" y="288">   ..::::--+**+==++%%%%%%+==~~~~~~++*#@#*+*+~~--:::</tspan>
+<tspan x="15" y="299">    .::::-~##%#++*%**++=++*======*++*%#%***+=~~---</tspan>
+<tspan x="15" y="310">    ..::-+@@@#%*+++**++++++++*+*****%@@@@###%*+=~~-</tspan>
+<tspan x="15" y="321">    ..::~#@@##%%%*%%%%#*+++%****%*%##@@@@@@@#*=~-:</tspan>
+<tspan x="15" y="332">    ..:-+###%#%%%%%%*##***%**%%*+#%%%#%@@@@#*+=~~-</tspan>
+<tspan x="15" y="343">     .:-=#####%%%###%%#%##@###%%%#**+**##@@*==~=~:</tspan>
+<tspan x="15" y="354">     .:-*%%####%%%%**%**%**%%%%**++*%%*#@@@#%+++*=.</tspan>
+</text>
+<text x="400" y="30" fill="#24292f">
+<tspan x="400" y="30">hong@tiantian ────────────────────────────────────────────</tspan>
+<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc" id="os_dots"> ..................... </tspan><tspan class="value" id="os_data">Windows, macOS, Linux, Android</tspan>
+<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="uptime_dots"> .......... </tspan><tspan class="value" id="uptime_data">28 years, 7 months, 22 days, 10 hours</tspan>
+<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc" id="host_dots"> ................................ </tspan><tspan class="value" id="host_data">Sydney, Australia</tspan>
+<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc" id="kernel_dots"> ...................... </tspan><tspan class="value" id="kernel_data">Windows NT, Darwin, Linux</tspan>
+<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Origin</tspan>:<tspan class="cc" id="origin_dots"> ................ </tspan><tspan class="value" id="origin_data">Journalist, recompiled for tech</tspan>
+<tspan x="400" y="150" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc" id="shell_dots"> ............................................ </tspan><tspan class="value" id="shell_data">ENTP</tspan>
+<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc" id="ide_dots"> .................... </tspan><tspan class="value" id="ide_data">VS Code, Visual Studio, Cursor</tspan>
+<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc" id="languages_programming_dots"> ......... </tspan><tspan class="value" id="languages_programming_data">Python, SQL, TypeScript</tspan>
+<tspan x="400" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc" id="languages_real_dots"> ............. </tspan><tspan class="value" id="languages_real_data">English, Mandarin, Hokkien</tspan>
+<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="cc">.</tspan><tspan class="key">Curious</tspan>:<tspan class="cc" id="currently_curious_dots"> ................. </tspan><tspan class="value" id="currently_curious_data">E-V-E-R-Y-T-H-I-N-G</tspan>
+<tspan x="400" y="290" class="cc">. </tspan><tspan class="key">Fun</tspan><tspan class="cc">.</tspan><tspan class="key">Fact</tspan>:<tspan class="cc" id="fun_fact_dots"> ............... </tspan><tspan class="value" id="fun_fact_data">Worked on 700+ videos about AI</tspan>
+<tspan x="400" y="330">- Contact ────────────────────────────────────────────────</tspan>
+<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc" id="github_dots"> .................................. </tspan><tspan class="value" id="github_data">hong-tiantian</tspan>
+<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc" id="linkedin_dots"> ...................... </tspan><tspan class="value" id="linkedin_data">in/amber-hong-6144a0281</tspan>
+</text>
+</svg>
