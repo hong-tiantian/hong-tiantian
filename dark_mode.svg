@@ -48,7 +48,7 @@ text, tspan {white-space: pre;}
 <text x="400" y="30" fill="#c9d1d9">
 <tspan x="400" y="30">hong@tiantian ────────────────────────────────────────────</tspan>
 <tspan x="400" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc" id="os_dots"> ..................... </tspan><tspan class="value" id="os_data">Windows, macOS, Linux, Android</tspan>
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="uptime_dots"> .......... </tspan><tspan class="value" id="uptime_data">28 years, 7 months, 23 days, 15 hours</tspan>
+<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="uptime_dots"> .......... </tspan><tspan class="value" id="uptime_data">28 years, 7 months, 23 days, 22 hours</tspan>
 <tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc" id="host_dots"> ................................ </tspan><tspan class="value" id="host_data">Sydney, Australia</tspan>
 <tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc" id="kernel_dots"> ...................... </tspan><tspan class="value" id="kernel_data">Windows NT, Darwin, Linux</tspan>
 <tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Origin</tspan>:<tspan class="cc" id="origin_dots"> ................ </tspan><tspan class="value" id="origin_data">Journalist, recompiled for tech</tspan>
